@@ -16,3 +16,11 @@ editor.use(image({
 
 document.body.appendChild(editor.el);
 ```
+
+### Options
+
+* button - html string
+* upload - function
+  arguments:
+  1. files
+  2. done
