@@ -1,0 +1,12 @@
+{
+  "name": "simple-editor-image",
+  "repo": "youmeb/simple-editor-image",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "youmeb/simple-editor": "*"
+  }
+}
